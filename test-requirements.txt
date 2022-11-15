@@ -5,3 +5,4 @@ PyYAML
 yamllint
 git+https://github.com/detiber/molecule@v2_tweaks
 docker-py==1.10.6
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
